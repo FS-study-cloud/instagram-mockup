@@ -26,23 +26,23 @@
 
 **50% 이하**
 
-![image.png](image%201.png)
+<img width="1119" height="1019" alt="Image" src="https://github.com/user-attachments/assets/8376b006-6231-4b48-a60b-dbea733403a0" />
 
 **50% - 75% 미만**
 
-![image.png](image%202.png)
+<img width="1917" height="1019" alt="Image" src="https://github.com/user-attachments/assets/0ce76971-66a3-4703-a923-1967185aafe4" />
 
 - 검색창
 
 **75% 이상**
 
-![image.png](image%203.png)
+<img width="1916" height="1019" alt="Image" src="https://github.com/user-attachments/assets/54233b1b-b989-42fd-a66e-f5b990e72562" />
 
 - 추천 친구
 
 ### 다크모드
 
-![image.png](image%204.png)
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/08a604be-ac35-446b-bbf6-c4b6ed80736d" />
 
 ## 회고
 
