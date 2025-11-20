@@ -22,8 +22,7 @@
 ## 화면 구성
 
 ### 기존화면
-
-![image.png](image.png)
+<img width="956" height="1019" alt="Image" src="https://github.com/user-attachments/assets/9046c9c2-4b48-4ee1-a8d9-669161db12d8" />
 
 **50% 이하**
 
